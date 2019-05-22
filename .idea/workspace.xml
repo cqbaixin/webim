@@ -203,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558496066721</updated>
-      <workItem from="1558496068455" duration="15609000" />
+      <workItem from="1558496068455" duration="15990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15609000" />
+    <option name="totallyTimeSpent" value="15990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,7 +227,7 @@
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.39892665" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.7477639" />
       <window_info anchor="bottom" id="TypeScript" order="4" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
