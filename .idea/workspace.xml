@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a596d7b9-4a66-4a98-b214-3fbad97cbb42" name="Default" comment="" />
+    <list default="true" id="a596d7b9-4a66-4a98-b214-3fbad97cbb42" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestUrl.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestUrl.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/socket/src/components/TestUrl.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="126">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -66,6 +68,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -103,13 +114,13 @@
         <option value="$PROJECT_DIR$/websocket/app/User/User.php" />
         <option value="$PROJECT_DIR$/websocket/serviser.php" />
         <option value="$PROJECT_DIR$/websocket/resource/index.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/socket/config/index.js" />
         <option value="$PROJECT_DIR$/socket/src/main.js" />
         <option value="$PROJECT_DIR$/socket/src/components/HelloWorld.vue" />
         <option value="$PROJECT_DIR$/socket/src/router/index.js" />
         <option value="$PROJECT_DIR$/socket/src/App.vue" />
         <option value="$PROJECT_DIR$/socket/src/components/TestUrl.vue" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -152,31 +163,6 @@
             <path>
               <item name="swoole_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="swoole_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swoole_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swoole_test" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swoole_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swoole_test" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swoole_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swoole_test" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swoole_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swoole_test" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -245,12 +231,12 @@
       <workItem from="1558572382521" duration="326000" />
       <workItem from="1558573397647" duration="1274000" />
       <workItem from="1558939327372" duration="8104000" />
-      <workItem from="1558948286078" duration="1013000" />
+      <workItem from="1558948286078" duration="1079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27187000" />
+    <option name="totallyTimeSpent" value="27253000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,7 +251,7 @@
     <frame x="0" y="28" width="1366" height="706" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19756839" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19756839" />
       <window_info anchor="bottom" id="TODO" order="12" weight="0.3291592" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
@@ -274,7 +260,7 @@
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4042934" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4042934" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TypeScript" order="3" />
@@ -465,13 +451,6 @@
     <entry file="file://$PROJECT_DIR$/socket/node_modules/_element-ui@2.8.2@element-ui/types/element-ui.d.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/socket/build/webpack.prod.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -594,8 +573,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/socket/src/components/TestUrl.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
