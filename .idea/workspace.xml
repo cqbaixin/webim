@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a596d7b9-4a66-4a98-b214-3fbad97cbb42" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/swoole_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/swoole_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/socket/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/socket/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/socket/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/socket/src/router/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="a596d7b9-4a66-4a98-b214-3fbad97cbb42" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +17,8 @@
       <file leaf-file-name="TestUrl.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/socket/src/components/TestUrl.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="189">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -252,12 +245,12 @@
       <workItem from="1558572382521" duration="326000" />
       <workItem from="1558573397647" duration="1274000" />
       <workItem from="1558939327372" duration="8104000" />
-      <workItem from="1558948286078" duration="848000" />
+      <workItem from="1558948286078" duration="1013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27022000" />
+    <option name="totallyTimeSpent" value="27187000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,7 +274,7 @@
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29695886" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4042934" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TypeScript" order="3" />
@@ -601,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/socket/src/components/TestUrl.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="189">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
